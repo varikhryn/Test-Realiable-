@@ -540,6 +540,7 @@ header.with-effect-bg {
   color: #e1aa6e;
   font-weight: 700;
   line-height: 2.109;
+  text-decoration: none;
 }
 
 .section_info_wrapper {
